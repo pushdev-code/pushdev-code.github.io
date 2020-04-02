@@ -981,7 +981,10 @@ img {
     position: absolute;
     top: 40px;
     left: 40px;
-    z-index: 10; }
+    z-index: 10;
+    background-color: rgba(0,0,0,0.4);
+    padding: 0 10px;
+  }
     @media only screen and (max-width: 767px) {
       .single-products-catagory .hover-content {
         top: 30px;
@@ -994,12 +997,13 @@ img {
       margin-bottom: 15px; }
     .single-products-catagory .hover-content p {
       font-size: 16px;
-      color: #6d6d6d;
+      color: #f1ecec;
       line-height: 1;
       margin-bottom: 5px;
       -webkit-transition-duration: 250ms;
       transition-duration: 250ms; }
     .single-products-catagory .hover-content h4 {
+      color: #f1ecec;
       margin-bottom: 0;
       -webkit-transition-duration: 250ms;
       transition-duration: 250ms; }
