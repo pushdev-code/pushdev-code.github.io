@@ -1,0 +1,16 @@
+{
+  "name": "shoping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "livereload public & http-server public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pushdev",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.1",
+    "livereload": "^0.9.1"
+  }
+}
