@@ -1,2 +1,2 @@
 # shoping-cart
-Moramia Shoping Cart Example
+Moramia Shoping Cart Template Example
